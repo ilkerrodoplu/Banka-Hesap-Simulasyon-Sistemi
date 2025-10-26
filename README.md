@@ -1,6 +1,6 @@
 # Banka Hesap Simülasyon Sistemi
 
-## 📋 Proje Hakkında
+## 📋 Proje Hakkında 
 
 Bu proje, Java programlama dilinde nesne yönelimli programlama (OOP) prensiplerini kullanarak geliştirilmiş kapsamlı bir banka hesap yönetim sistemidir. Vadesiz hesap, vadeli hesap ve kredi hesabı olmak üzere üç farklı hesap tipini yönetebilen, finansal hesaplamalar yapabilen interaktif bir konsol uygulamasıdır.
 
